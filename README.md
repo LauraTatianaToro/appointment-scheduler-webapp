@@ -28,4 +28,9 @@ Onload: <br>
 OnClick: <br>
 <img src="images/preview_onclick.PNG" alt="preview_onload"  width="600" height="300">
 
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* [MrNobody's Calendar](https://codepen.io/corvus-007/pen/MzEKyJ)
+
 
