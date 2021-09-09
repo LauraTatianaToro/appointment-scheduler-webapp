@@ -10,8 +10,10 @@ TOOLS USED: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=f
 
 This assignment guides students through begining stages of design using User Experience principles and usability goals.
 
-We begin with low fidelity sketches and translate it into a mid fidelity demo. JavaScript is used to
-simulate communicating with a database (i.e, dates divisible by 2 activate certain timeslots available)
+We begin with low fidelity sketches and translate them into a mid fidelity demo. JavaScript is used to
+simulate communication with a database (i.e, dates divisible by 2 activate certain timeslots available)
+
+More steps are necessary to take this project to completion.
 
 ## Low Fidelity Design
 
