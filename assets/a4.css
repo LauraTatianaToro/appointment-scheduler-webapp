@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("background.jpg");
+  background-repeat: repeat;
+  background-size: 30%;
+
+
+}
+
+/* Style the top navigation bar */
+nav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+nav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the content */
+main {
+  /* background-color: #ddd; */
+  width: 80%;
+  border: 2px solid #ddd;
+  position: absolute;
+  background-color: #fff;
+  border-radius: 8px;
+
+  top: 50%;
+  left: 50%;
+  overflow: hidden;
+  text-align: center;
+
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+  
+  
+}
+
+
+/* Style the footer */
+footer {
+  padding: 5px;
+  position: absolute;
+  bottom: 0;
+  margin:0;
+  text-align: center;
+  /* border: 3px solid #73AD21;  */
+  width: 100%;
+  overflow: hidden;
+  
+
+
+}
+
+ section {
+ background-color: #fff;
+
+}  
+
+h1 {
+  margin:10px;
+  text-align: center;
+
+}
+
+.dates {
+  float:right; 
+  width:40%;
+  margin-right: 10%;
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid #ddd;
+height:0;
+overflow: hidden;
+}
+
+/* header {
+  border: 3px solid #73AD21; 
+
+
+} */
+
+a{
+  color: #43c9a7;
+}
+
+a:hover {
+color: black !important;
+}
+
+.infobox {
+  display: none;
+  }
