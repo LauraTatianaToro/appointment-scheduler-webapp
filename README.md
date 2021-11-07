@@ -8,7 +8,8 @@ TOOLS USED: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=f
 <a href="https://codepen.io/lauratatianatoro/project/editor/XLQbwn"><strong>Live Demo</strong></a>
 
 
-This assignment guides students through begining stages of design using User Experience principles and usability goals.
+This assignment guides students through begining stages of design using User Experience principles and usability goals
+to create a mid-fidelity protoype.
 
 We begin with low fidelity sketches of a COVID-19 Vaccine Scheduler and translate them into a mid fidelity demo. 
 JavaScript is used to simulate communication with a database (i.e, dates divisible by 2 activate certain timeslots available)
